@@ -1,0 +1,6 @@
+{
+    "GuidValue is required": "GuidValue é obrigatório",
+    "StringValue is required": "StringValue é obrigatório",
+    "DecimalValue is required": "DecimalValue é obrigatório",
+    "IntValue is required": "IntValue é obrigatório"
+}
